@@ -3,7 +3,6 @@
 ## 📌 Core Features
 - Automated LinkedIn post creation from Google Sheets data
 - AI-powered content generation via Gemini
-- Workflow automation
 
 ## ⚙️ Technical Specifications
 | Component           | Service Used       |
