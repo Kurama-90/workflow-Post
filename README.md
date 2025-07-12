@@ -15,7 +15,7 @@
 
 ## 🛠 Implementation Guide
 1. **Import Template**:
-   - Download `linkedin-posts-generator.json`
+   - Download `Generate LinkedIn posts-AI (Mohamed)`
    - Import to Make.com scenario editor
 
 2. **Configure Connections**:
