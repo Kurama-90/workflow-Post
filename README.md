@@ -1,5 +1,9 @@
 # LinkedIn Post Generator - Make.com Template
 
+
+https://github.com/user-attachments/assets/7b6cd8d1-01e6-4b16-8409-ea83242a98d6
+
+
 ## 📌 Core Features
 - Automated LinkedIn post creation from Google Sheets data
 - AI-powered content generation via Gemini
